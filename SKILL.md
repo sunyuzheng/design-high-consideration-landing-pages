@@ -1,11 +1,6 @@
 ---
 name: design-high-consideration-landing-pages
-description: >-
-  设计、审查、重构或精修高客单价课程、会员、社区、服务和创始人产品的
-  landing page。用于需要澄清产品价值层级、建立品类尺度与transformation、
-  安排Hero与决策路径、编排评价和案例、建立权威感、评审整页桌面与移动端体验，
-  或判断某次改版是否真正增强了说服力与品牌余留。不用于普通文章编辑、纯视觉美化、
-  低考虑度商品详情页，或未经审批的生产发布。
+description: 设计或精修高客单价课程、会员、社区及服务的销售页；统筹价值、证据、决策路径和整页体验。
 ---
 
 # Design High-Consideration Landing Pages
